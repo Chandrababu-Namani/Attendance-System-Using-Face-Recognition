@@ -14,6 +14,6 @@ The system is developed for deploying an easy and a secure way of taking down at
 - The system don’t recognize properly in poor light so may give false results.<br>
 * It can only detect face from a limited distance.<br>
 
-Wanted to know more about modern face recognition? Then -> [Click here](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+Wanted to know about modern face recognition? Then -> [Click here](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 
 ***Thank You***
