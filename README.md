@@ -1,5 +1,5 @@
 # Attendance System Using Face Recognition
-This project is based on an attendance management system using face recognition where a face is recognized through a webcam in order to mark the attendance
+This project is based on an attendance management system using face recognition where a face is recognized through a webcam in order to mark attendance.
 
 ## Abstract<br>
 The system is developed for deploying an easy and a secure way of taking down attendance. The software first captures an image of all the authorized persons and stores the information into database. The system then stores the image by mapping it into a face coordinate structure. Next time whenever the registered person enters the premises the system recognizes the person and marks his attendance along with the time.
