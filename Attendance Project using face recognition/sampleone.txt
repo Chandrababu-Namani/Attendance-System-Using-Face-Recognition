@@ -1,2 +1,3 @@
 hello there
 New line
+added fresh line by other
